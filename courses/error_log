@@ -1,0 +1,6 @@
+[22-Jan-2019 16:34:29 UTC] PHP Notice:  Undefined index: phone in /home/adit1/public_html/grayschool.in/courses/coursesmail.php on line 50
+[22-Jan-2019 16:34:30 UTC] PHP Stack trace:
+[22-Jan-2019 16:34:30 UTC] PHP   1. {main}() /home/adit1/public_html/grayschool.in/courses/coursesmail.php:0
+[26-Jan-2019 11:16:53 UTC] PHP Notice:  Undefined index: phone in /home/adit1/public_html/grayschool.in/courses/coursesmail.php on line 50
+[26-Jan-2019 11:16:53 UTC] PHP Stack trace:
+[26-Jan-2019 11:16:53 UTC] PHP   1. {main}() /home/adit1/public_html/grayschool.in/courses/coursesmail.php:0
