@@ -1285,6 +1285,9 @@ body {
 .blog-post-content ol li{
 	list-style-type:decimal;
 }
+.blog-post-content ul li{
+	list-style-type:disc;
+}
 .blog-post-content .blog-post-image{
 	margin: 30px 0 15px;
 }
