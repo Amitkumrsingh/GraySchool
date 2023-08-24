@@ -41,4 +41,16 @@ $(".icon-heart .fa-heart").on("click",function() {
 // }
 
 
+//-----------------Related Posts Carousel------------------
 
+
+$('#relatedPostsCarousel').carousel({
+    interval: 10000
+})
+  
+$('#relatedPostsCarousel.carousel .carousel-item').each(function(){
+    var i = $(this).next();      
+    for (var n = 0; n < 2; n++)(i = i.next()).length ||
+    (i = $(this).siblings(":first")),
+    i.children(":first-child").clone().appendTo($(this))
+});
