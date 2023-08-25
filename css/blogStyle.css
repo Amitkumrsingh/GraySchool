@@ -121,10 +121,6 @@ body {
 	background-color:#666666;
 }
 
-#myCarousel .container-category button:hover{
-	color:#000;
-	background-color:#fddb00;
-}
 
 #myCarousel .container .container-title{
 	display: block;
